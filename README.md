@@ -15,3 +15,7 @@ Languages Used
 HTML
 CSS
 JavaScript
+This is my photo of my webpage
+![qq](https://github.com/user-attachments/assets/39323884-0934-44da-9f58-4c520abbfd83)
+![qqq](https://github.com/user-attachments/assets/43e16764-f772-43e2-b0c9-e110972bf444)
+
